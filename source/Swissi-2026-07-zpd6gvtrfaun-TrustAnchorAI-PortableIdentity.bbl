@@ -1,0 +1,3005 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{appleage2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3325b015fbae57ba74629a53f1ead961}{%
+           family={{Apple Inc.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Apple Developer Documentation}%
+      }
+      \strng{namehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{fullhash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{fullhashraw}{3325b015fbae57ba74629a53f1ead961}
+      \strng{bibnamehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authorbibnamehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authornamehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authorfullhash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authorfullhashraw}{3325b015fbae57ba74629a53f1ead961}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Declared Age Range}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.apple.com/documentation/declaredagerange/
+      \endverb
+      \verb{url}
+      \verb https://developer.apple.com/documentation/declaredagerange/
+      \endverb
+    \endentry
+    \entry{ashby1956introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5648b417b1ebf04dd0185b63a5033d6}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={W.\bibnamedelimi Ross},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \& Hall}%
+      }
+      \strng{namehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{fullhash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{fullhashraw}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{bibnamehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authorbibnamehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authornamehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authorfullhash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authorfullhashraw}{f5648b417b1ebf04dd0185b63a5033d6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Cybernetics}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{1956}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.inist.org/library/1956.Ashby.Introduction%20to%20Cybernetics.Chapman%20and%20Hall.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inist.org/library/1956.Ashby.Introduction%20to%20Cybernetics.Chapman%20and%20Hall.pdf
+      \endverb
+    \endentry
+    \entry{biia2020invidem}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dfe828fd3bba8e8cfb09d304c142bb7a}{%
+           family={{Business Information Industry Association}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{fullhash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{fullhashraw}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{bibnamehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authorbibnamehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authornamehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authorfullhash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authorfullhashraw}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{month}{8}
+      \field{title}{Nordic Banks' Agreement on One {KYC} Standard a Unique Advantage for New Utility}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.biia.com/nordic-banks-agreement-on-one-kyc-standard-a-unique-advantage-for-new-utility/
+      \endverb
+      \verb{url}
+      \verb https://www.biia.com/nordic-banks-agreement-on-one-kyc-standard-a-unique-advantage-for-new-utility/
+      \endverb
+    \endentry
+    \entry{camenisch2001anoncreds}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ee2bdf724d3560932a81321ec74f23f}{%
+           family={Camenisch},
+           familyi={C\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dbb05c09a87b99a42207c787de0bea0}{%
+           family={Lysyanskaya},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{fullhash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{fullhashraw}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{bibnamehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authorbibnamehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authornamehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authorfullhash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authorfullhashraw}{82df7b6bee9a6009862a12c6f8424fe0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Cryptology, EUROCRYPT 2001}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{2045}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{93\bibrangedash 118}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/3-540-44987-6_7
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/3-540-44987-6_7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/3-540-44987-6_7
+      \endverb
+    \endentry
+    \entry{peerdid2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5bd4bb6bcbeb84b8586658434f7ca3c}{%
+           family={{Decentralized Identity Foundation}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Decentralized Identity Foundation}%
+      }
+      \strng{namehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{fullhash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{fullhashraw}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{bibnamehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authorbibnamehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authornamehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authorfullhash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authorfullhashraw}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Peer {DID} Method Specification}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://identity.foundation/peer-did-method-spec/
+      \endverb
+      \verb{url}
+      \verb https://identity.foundation/peer-did-method-spec/
+      \endverb
+    \endentry
+    \entry{eudiarf}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {European Commission}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The European Digital Identity Wallet Architecture and Reference Framework}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework
+      \endverb
+      \verb{url}
+      \verb https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework
+      \endverb
+    \endentry
+    \entry{edpb2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74d1e10fcee75ce98ed9bd00812ec2fb}{%
+           family={{European Data Protection Board}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {European Data Protection Board}%
+      }
+      \strng{namehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{fullhash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{fullhashraw}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{bibnamehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authorbibnamehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authornamehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authorfullhash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authorfullhashraw}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guidelines 02/2025 on Processing of Personal Data through Blockchain Technologies}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-022025-processing-personal-data-through_en
+      \endverb
+      \verb{url}
+      \verb https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-022025-processing-personal-data-through_en
+      \endverb
+    \endentry
+    \entry{gdpr2016}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2016/679 General Data Protection Regulation}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679
+      \endverb
+    \endentry
+    \entry{mica2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2023/1114 on Markets in Crypto-Assets}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114
+      \endverb
+    \endentry
+    \entry{eidas2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{eIDAS 2.0}
+      \field{title}{Regulation (EU) 2024/1183 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1183
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1183
+      \endverb
+    \endentry
+    \entry{amlr2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/1624 on the prevention of the use of the financial system for money laundering or terrorist financing}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1624
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1624
+      \endverb
+    \endentry
+    \entry{aiact2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act)}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1689
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1689
+      \endverb
+    \endentry
+    \entry{sdjwt}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=973bd24bb2d95a8706c9b3f9ad060b99}{%
+           family={Fett},
+           familyi={F\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34952655ece7ba2b9315f08a5d887c32}{%
+           family={Yasuda},
+           familyi={Y\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3a5019aee084bfff02cd2a5cb7d7c70}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IETF, Internet-Draft}%
+      }
+      \strng{namehash}{43f109437ed49da92b7ccc128ebdc3c3}
+      \strng{fullhash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{fullhashraw}{cd56ee716cb22929dd52f62455af934d}
+      \strng{bibnamehash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{authorbibnamehash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{authornamehash}{43f109437ed49da92b7ccc128ebdc3c3}
+      \strng{authorfullhash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{authorfullhashraw}{cd56ee716cb22929dd52f62455af934d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Selective Disclosure for JWTs (SD-JWT)}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/
+      \endverb
+      \verb{url}
+      \verb https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/
+      \endverb
+    \endentry
+    \entry{gleif2024vlei}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6349fd4b400d1b750375b37f238a884}{%
+           family={{Global Legal Entity Identifier Foundation}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \strng{bibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorbibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authornamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Verifiable {LEI} (v{LEI})}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gleif.org/en/organizational-identity/introducing-the-verifiable-lei-vlei
+      \endverb
+      \verb{url}
+      \verb https://www.gleif.org/en/organizational-identity/introducing-the-verifiable-lei-vlei
+      \endverb
+    \endentry
+    \entry{gleif2025lei}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6349fd4b400d1b750375b37f238a884}{%
+           family={{Global Legal Entity Identifier Foundation}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \strng{bibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorbibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authornamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Legal Entity Identifier ({LEI}) and the {ISO}~17442 Standard}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure
+      \endverb
+      \verb{url}
+      \verb https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure
+      \endverb
+    \endentry
+    \entry{goffman1959presentation}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f4195a736f48ac9a8ae7634814ab6ed}{%
+           family={Goffman},
+           familyi={G\bibinitperiod},
+           given={Erving},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Garden City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{fullhash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{fullhashraw}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{bibnamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorbibnamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authornamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorfullhash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorfullhashraw}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Presentation of Self in Everyday Life}
+      \field{year}{1959}
+    \endentry
+    \entry{nist80063}{report}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4ee4d2f2e32507ca8fda9a992943dc73}{%
+           family={Grassi},
+           familyi={G\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f59cd9aa65a0396d5eff7ca861b7e52}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=136534cc7e5ab9199cba9a9e1cdb73e0}{%
+           family={Fenton},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{4f73b95eddb24b4fda12762103389801}
+      \strng{fullhash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{fullhashraw}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{bibnamehash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{authorbibnamehash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{authornamehash}{4f73b95eddb24b4fda12762103389801}
+      \strng{authorfullhash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{authorfullhashraw}{8f68bd1b8c73582b2c980c2b66289757}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{800-63}
+      \field{title}{Digital Identity Guidelines}
+      \field{type}{NIST Special Publication}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pages.nist.gov/800-63-4/
+      \endverb
+      \verb{url}
+      \verb https://pages.nist.gov/800-63-4/
+      \endverb
+    \endentry
+    \entry{anoncreds2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f25e49e90ebc331d21611a88f634bd9d}{%
+           family={{Hyperledger AnonCreds Project}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Linux Foundation Decentralized Trust}%
+      }
+      \strng{namehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{fullhash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{fullhashraw}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{bibnamehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authorbibnamehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authornamehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authorfullhash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authorfullhashraw}{f25e49e90ebc331d21611a88f634bd9d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{AnonCreds} Specification}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hyperledger.github.io/anoncreds-spec/
+      \endverb
+      \verb{url}
+      \verb https://hyperledger.github.io/anoncreds-spec/
+      \endverb
+    \endentry
+    \entry{iso18013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ISO}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ISO/IEC 18013-5 Personal identification, ISO-compliant driving licence, Part 5 Mobile driving licence (mDL) application}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.iso.org/standard/69084.html
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/standard/69084.html
+      \endverb
+    \endentry
+    \entry{josang2016subjective}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=732492ebae7a76ed0f341c5a3a998566}{%
+           family={J{ø}sang},
+           familyi={J\bibinitperiod},
+           given={Audun},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{fullhash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{fullhashraw}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{bibnamehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authorbibnamehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authornamehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authorfullhash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authorfullhashraw}{732492ebae7a76ed0f341c5a3a998566}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Subjective Logic: A Formalism for Reasoning Under Uncertainty}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-319-42337-1
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-319-42337-1
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-319-42337-1
+      \endverb
+    \endentry
+    \entry{agnostyca2026}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=592562982e53f663d0c53c014b6f02c0}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \strng{bibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorbibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authornamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Swissi Institute for AI, working paper}
+      \field{note}{Architecture and methodology for scalable domain adaptation from a unified core framework}
+      \field{title}{Generic AI-DLT Enterprise System}
+      \field{year}{2026}
+    \endentry
+    \entry{kurz2026actorassurance}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=592562982e53f663d0c53c014b6f02c0}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \strng{bibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorbibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authornamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Swissi Institute for AI, working paper}
+      \field{note}{A Design-Science Proposal for Tiered, Reusable Identity Assurance of Natural, Juridical, and Machine Actors}
+      \field{title}{Multi-Jurisdictional Actor Identity Assurance for Capability Gating}
+      \field{year}{2026}
+    \endentry
+    \entry{luhmann1995social}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8b72fb67fc916725baec30956b60d9d}{%
+           family={Luhmann},
+           familyi={L\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=13044507770c2298f1f94afacbd790ae}{%
+           family={Bednarz},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=757425a915614d286f2e791b1da0773e}{%
+           family={Baecker},
+           familyi={B\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford, CA}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{fullhash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{fullhashraw}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{bibnamehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authorbibnamehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authornamehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authorfullhash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authorfullhashraw}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{translatorbibnamehash}{bc83c95f926c2ad9ef79ac71d230a821}
+      \strng{translatornamehash}{bc83c95f926c2ad9ef79ac71d230a821}
+      \strng{translatorfullhash}{bc83c95f926c2ad9ef79ac71d230a821}
+      \strng{translatorfullhashraw}{bc83c95f926c2ad9ef79ac71d230a821}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0804726256}
+      \field{title}{Social Systems}
+      \field{year}{1995}
+    \endentry
+    \entry{marwick2011contextcollapse}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={Marwick},
+           familyi={M\bibinitperiod},
+           given={Alice\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d21b623e63019e243a8086352955e107}{%
+           given={danah},
+           giveni={d\bibinitperiod},
+           givenun=0,
+           prefix={boyd\bibnamedelima danah},
+           prefixi={b\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{fullhash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{fullhashraw}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{bibnamehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authorbibnamehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authornamehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authorfullhash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authorfullhashraw}{c6e4796d0d490be268f92118c1f1ff65}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Media \& Society}
+      \field{number}{1}
+      \field{title}{I Tweet Honestly, I Tweet Passionately: Twitter Users, Context Collapse, and the Imagined Audience}
+      \field{volume}{13}
+      \field{year}{2011}
+      \field{pages}{114\bibrangedash 133}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1461444810365313
+      \endverb
+    \endentry
+    \entry{nissenbaum2010privacy}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b87272f33535d7231ff18fbf708063a0}{%
+           family={Nissenbaum},
+           familyi={N\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stanford, CA}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhashraw}{b87272f33535d7231ff18fbf708063a0}
+      \strng{bibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorbibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authornamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhashraw}{b87272f33535d7231ff18fbf708063a0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780804752374}
+      \field{title}{Privacy in Context: Technology, Policy, and the Integrity of Social Life}
+      \field{year}{2010}
+    \endentry
+    \entry{uprove2013}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a22760de154864353e8811aaf5bd86f4}{%
+           family={Paquin},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daa7de6cf3b2445db161e9bda56e3fb8}{%
+           family={Zaverucha},
+           familyi={Z\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
+      \strng{namehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{fullhash}{b2aad27fa9c910999e596b105af12011}
+      \strng{fullhashraw}{b2aad27fa9c910999e596b105af12011}
+      \strng{bibnamehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authorbibnamehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authornamehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authorfullhash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authorfullhashraw}{b2aad27fa9c910999e596b105af12011}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{U-Prove Cryptographic Specification V1.1, Revision 3}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/research/publication/u-prove-cryptographic-specification-v1-1-revision-3/
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/research/publication/u-prove-cryptographic-specification-v1-1-revision-3/
+      \endverb
+    \endentry
+    \entry{schardong2022ssi}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=268b38a375188e3f7463a2bea6cbde85}{%
+           family={Schardong},
+           familyi={S\bibinitperiod},
+           given={Frederico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82fcad9578b7b8de319ee89284d798f6}{%
+           family={Custódio},
+           familyi={C\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{fullhash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{fullhashraw}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{bibnamehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authorbibnamehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authornamehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authorfullhash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authorfullhashraw}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{15}
+      \field{title}{Self-Sovereign Identity: A Systematic Review, Mapping and Taxonomy}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{5641}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22155641
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/22/15/5641
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/22/15/5641
+      \endverb
+    \endentry
+    \entry{shamir1979secret}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71b77dd8ab33fe646ef25cded49e9881}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Adi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{fullhash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{fullhashraw}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{bibnamehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authorbibnamehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authornamehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authorfullhash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authorfullhashraw}{71b77dd8ab33fe646ef25cded49e9881}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{11}
+      \field{title}{How to Share a Secret}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{22}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{612\bibrangedash 613}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1145/359168.359176
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/359168.359176
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/359168.359176
+      \endverb
+    \endentry
+    \entry{keri}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa19a0b767095657b90c92d1ee1b4714}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Samuel\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{fullhash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{fullhashraw}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{bibnamehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authorbibnamehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authornamehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authorfullhash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authorfullhashraw}{aa19a0b767095657b90c92d1ee1b4714}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Key Event Receipt Infrastructure (KERI)}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1907.02143
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1907.02143
+      \endverb
+    \endentry
+    \entry{swift2026kycregistry}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48568b3af1e67664dcc96ae13c9dd3a9}{%
+           family={{Society for Worldwide Interbank Financial Telecommunication}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{fullhash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{fullhashraw}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{bibnamehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authorbibnamehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authornamehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authorfullhash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authorfullhashraw}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Know Your Customer ({KYC})}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.swift.com/risk-and-compliance/know-your-customer-kyc
+      \endverb
+      \verb{url}
+      \verb https://www.swift.com/risk-and-compliance/know-your-customer-kyc
+      \endverb
+    \endentry
+    \entry{sovrin}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ada48ca63c824008505acc3e9e3093be}{%
+           family={{Sovrin Foundation}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Sovrin Foundation, whitepaper}%
+      }
+      \strng{namehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{fullhash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{fullhashraw}{ada48ca63c824008505acc3e9e3093be}
+      \strng{bibnamehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authorbibnamehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authornamehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authorfullhash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authorfullhashraw}{ada48ca63c824008505acc3e9e3093be}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sovrin.org/library/sovrin-protocol-and-token-white-paper/
+      \endverb
+      \verb{url}
+      \verb https://sovrin.org/library/sovrin-protocol-and-token-white-paper/
+      \endverb
+    \endentry
+    \entry{swisseid}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=948f882b7940be41c08133779fe95bea}{%
+           family={{Swiss Confederation}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Federal Council of Switzerland}%
+      }
+      \strng{namehash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhashraw}{948f882b7940be41c08133779fe95bea}
+      \strng{bibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorbibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authornamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhashraw}{948f882b7940be41c08133779fe95bea}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Electronic Proof of Identity and Other Electronic Credentials (E-ID Act)}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eid.admin.ch/
+      \endverb
+      \verb{url}
+      \verb https://www.eid.admin.ch/
+      \endverb
+    \endentry
+    \entry{oid4vp}{online}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=164869a3273c1797d92655896feae92a}{%
+           family={Terbu},
+           familyi={T\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c810c6e897884044b611eb7a087c09e3}{%
+           family={Lodderstedt},
+           familyi={L\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34952655ece7ba2b9315f08a5d887c32}{%
+           family={Yasuda},
+           familyi={Y\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e9db61a3937d6aeae1fd9d211c0c65}{%
+           family={Looker},
+           familyi={L\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {OpenID Foundation}%
+      }
+      \strng{namehash}{269279fe290e4cf09b86b5bd3f494181}
+      \strng{fullhash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{fullhashraw}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{bibnamehash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{authorbibnamehash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{authornamehash}{269279fe290e4cf09b86b5bd3f494181}
+      \strng{authorfullhash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{authorfullhashraw}{e77e629306eb1131e2f67a0ddc6908ae}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OpenID for Verifiable Presentations}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openid.net/specs/openid-4-verifiable-presentations-1_0.html
+      \endverb
+      \verb{url}
+      \verb https://openid.net/specs/openid-4-verifiable-presentations-1_0.html
+      \endverb
+    \endentry
+    \entry{unsdg169}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {United Nations}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustainable Development Goal 16.9, Legal Identity for All Including Birth Registration}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sdgs.un.org/goals/goal16
+      \endverb
+      \verb{url}
+      \verb https://sdgs.un.org/goals/goal16
+      \endverb
+    \endentry
+    \entry{w3cdid}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {W3C Recommendation}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralized Identifiers (DIDs) v1.0}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/did-core/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/did-core/
+      \endverb
+    \endentry
+    \entry{w3cvc}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {W3C Recommendation}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verifiable Credentials Data Model}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/vc-data-model-2.0/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/vc-data-model-2.0/
+      \endverb
+    \endentry
+    \entry{w3c2026bbs}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {W3C Candidate Recommendation Draft}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Integrity {BBS} Cryptosuites v1.0}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/vc-di-bbs/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/vc-di-bbs/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{appleage2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3325b015fbae57ba74629a53f1ead961}{%
+           family={{Apple Inc.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Apple Developer Documentation}%
+      }
+      \strng{namehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{fullhash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{fullhashraw}{3325b015fbae57ba74629a53f1ead961}
+      \strng{bibnamehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authorbibnamehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authornamehash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authorfullhash}{3325b015fbae57ba74629a53f1ead961}
+      \strng{authorfullhashraw}{3325b015fbae57ba74629a53f1ead961}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Declared Age Range}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.apple.com/documentation/declaredagerange/
+      \endverb
+      \verb{url}
+      \verb https://developer.apple.com/documentation/declaredagerange/
+      \endverb
+    \endentry
+    \entry{ashby1956introduction}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5648b417b1ebf04dd0185b63a5033d6}{%
+           family={Ashby},
+           familyi={A\bibinitperiod},
+           given={W.\bibnamedelimi Ross},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \& Hall}%
+      }
+      \strng{namehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{fullhash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{fullhashraw}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{bibnamehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authorbibnamehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authornamehash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authorfullhash}{f5648b417b1ebf04dd0185b63a5033d6}
+      \strng{authorfullhashraw}{f5648b417b1ebf04dd0185b63a5033d6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Cybernetics}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{1956}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.inist.org/library/1956.Ashby.Introduction%20to%20Cybernetics.Chapman%20and%20Hall.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inist.org/library/1956.Ashby.Introduction%20to%20Cybernetics.Chapman%20and%20Hall.pdf
+      \endverb
+    \endentry
+    \entry{biia2020invidem}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dfe828fd3bba8e8cfb09d304c142bb7a}{%
+           family={{Business Information Industry Association}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{fullhash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{fullhashraw}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{bibnamehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authorbibnamehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authornamehash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authorfullhash}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \strng{authorfullhashraw}{dfe828fd3bba8e8cfb09d304c142bb7a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{month}{8}
+      \field{title}{Nordic Banks' Agreement on One {KYC} Standard a Unique Advantage for New Utility}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.biia.com/nordic-banks-agreement-on-one-kyc-standard-a-unique-advantage-for-new-utility/
+      \endverb
+      \verb{url}
+      \verb https://www.biia.com/nordic-banks-agreement-on-one-kyc-standard-a-unique-advantage-for-new-utility/
+      \endverb
+    \endentry
+    \entry{camenisch2001anoncreds}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7ee2bdf724d3560932a81321ec74f23f}{%
+           family={Camenisch},
+           familyi={C\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dbb05c09a87b99a42207c787de0bea0}{%
+           family={Lysyanskaya},
+           familyi={L\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{fullhash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{fullhashraw}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{bibnamehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authorbibnamehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authornamehash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authorfullhash}{82df7b6bee9a6009862a12c6f8424fe0}
+      \strng{authorfullhashraw}{82df7b6bee9a6009862a12c6f8424fe0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Cryptology, EUROCRYPT 2001}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{2045}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{93\bibrangedash 118}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/3-540-44987-6_7
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/3-540-44987-6_7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/3-540-44987-6_7
+      \endverb
+    \endentry
+    \entry{peerdid2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5bd4bb6bcbeb84b8586658434f7ca3c}{%
+           family={{Decentralized Identity Foundation}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Decentralized Identity Foundation}%
+      }
+      \strng{namehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{fullhash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{fullhashraw}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{bibnamehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authorbibnamehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authornamehash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authorfullhash}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \strng{authorfullhashraw}{f5bd4bb6bcbeb84b8586658434f7ca3c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Peer {DID} Method Specification}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://identity.foundation/peer-did-method-spec/
+      \endverb
+      \verb{url}
+      \verb https://identity.foundation/peer-did-method-spec/
+      \endverb
+    \endentry
+    \entry{eudiarf}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {European Commission}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The European Digital Identity Wallet Architecture and Reference Framework}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework
+      \endverb
+      \verb{url}
+      \verb https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework
+      \endverb
+    \endentry
+    \entry{edpb2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74d1e10fcee75ce98ed9bd00812ec2fb}{%
+           family={{European Data Protection Board}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {European Data Protection Board}%
+      }
+      \strng{namehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{fullhash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{fullhashraw}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{bibnamehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authorbibnamehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authornamehash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authorfullhash}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \strng{authorfullhashraw}{74d1e10fcee75ce98ed9bd00812ec2fb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guidelines 02/2025 on Processing of Personal Data through Blockchain Technologies}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-022025-processing-personal-data-through_en
+      \endverb
+      \verb{url}
+      \verb https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-022025-processing-personal-data-through_en
+      \endverb
+    \endentry
+    \entry{gdpr2016}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2016/679 General Data Protection Regulation}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679
+      \endverb
+    \endentry
+    \entry{mica2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2023/1114 on Markets in Crypto-Assets}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114
+      \endverb
+    \endentry
+    \entry{eidas2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{eIDAS 2.0}
+      \field{title}{Regulation (EU) 2024/1183 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1183
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1183
+      \endverb
+    \endentry
+    \entry{amlr2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/1624 on the prevention of the use of the financial system for money laundering or terrorist financing}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1624
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1624
+      \endverb
+    \endentry
+    \entry{aiact2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhashraw}{158562a5e9dc942912330c711ca123ca}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act)}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1689
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2024/1689
+      \endverb
+    \endentry
+    \entry{sdjwt}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=973bd24bb2d95a8706c9b3f9ad060b99}{%
+           family={Fett},
+           familyi={F\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34952655ece7ba2b9315f08a5d887c32}{%
+           family={Yasuda},
+           familyi={Y\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3a5019aee084bfff02cd2a5cb7d7c70}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IETF, Internet-Draft}%
+      }
+      \strng{namehash}{43f109437ed49da92b7ccc128ebdc3c3}
+      \strng{fullhash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{fullhashraw}{cd56ee716cb22929dd52f62455af934d}
+      \strng{bibnamehash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{authorbibnamehash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{authornamehash}{43f109437ed49da92b7ccc128ebdc3c3}
+      \strng{authorfullhash}{cd56ee716cb22929dd52f62455af934d}
+      \strng{authorfullhashraw}{cd56ee716cb22929dd52f62455af934d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Selective Disclosure for JWTs (SD-JWT)}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/
+      \endverb
+      \verb{url}
+      \verb https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/
+      \endverb
+    \endentry
+    \entry{gleif2024vlei}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6349fd4b400d1b750375b37f238a884}{%
+           family={{Global Legal Entity Identifier Foundation}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \strng{bibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorbibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authornamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Verifiable {LEI} (v{LEI})}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gleif.org/en/organizational-identity/introducing-the-verifiable-lei-vlei
+      \endverb
+      \verb{url}
+      \verb https://www.gleif.org/en/organizational-identity/introducing-the-verifiable-lei-vlei
+      \endverb
+    \endentry
+    \entry{gleif2025lei}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6349fd4b400d1b750375b37f238a884}{%
+           family={{Global Legal Entity Identifier Foundation}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{fullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \strng{bibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorbibnamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authornamehash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhash}{e6349fd4b400d1b750375b37f238a884}
+      \strng{authorfullhashraw}{e6349fd4b400d1b750375b37f238a884}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Legal Entity Identifier ({LEI}) and the {ISO}~17442 Standard}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure
+      \endverb
+      \verb{url}
+      \verb https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure
+      \endverb
+    \endentry
+    \entry{goffman1959presentation}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f4195a736f48ac9a8ae7634814ab6ed}{%
+           family={Goffman},
+           familyi={G\bibinitperiod},
+           given={Erving},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Garden City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{fullhash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{fullhashraw}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{bibnamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorbibnamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authornamehash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorfullhash}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \strng{authorfullhashraw}{0f4195a736f48ac9a8ae7634814ab6ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Presentation of Self in Everyday Life}
+      \field{year}{1959}
+    \endentry
+    \entry{nist80063}{report}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4ee4d2f2e32507ca8fda9a992943dc73}{%
+           family={Grassi},
+           familyi={G\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f59cd9aa65a0396d5eff7ca861b7e52}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=136534cc7e5ab9199cba9a9e1cdb73e0}{%
+           family={Fenton},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {National Institute of Standards}%
+        {Technology}%
+      }
+      \strng{namehash}{4f73b95eddb24b4fda12762103389801}
+      \strng{fullhash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{fullhashraw}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{bibnamehash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{authorbibnamehash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{authornamehash}{4f73b95eddb24b4fda12762103389801}
+      \strng{authorfullhash}{8f68bd1b8c73582b2c980c2b66289757}
+      \strng{authorfullhashraw}{8f68bd1b8c73582b2c980c2b66289757}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{800-63}
+      \field{title}{Digital Identity Guidelines}
+      \field{type}{NIST Special Publication}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pages.nist.gov/800-63-4/
+      \endverb
+      \verb{url}
+      \verb https://pages.nist.gov/800-63-4/
+      \endverb
+    \endentry
+    \entry{anoncreds2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f25e49e90ebc331d21611a88f634bd9d}{%
+           family={{Hyperledger AnonCreds Project}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Linux Foundation Decentralized Trust}%
+      }
+      \strng{namehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{fullhash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{fullhashraw}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{bibnamehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authorbibnamehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authornamehash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authorfullhash}{f25e49e90ebc331d21611a88f634bd9d}
+      \strng{authorfullhashraw}{f25e49e90ebc331d21611a88f634bd9d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{AnonCreds} Specification}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hyperledger.github.io/anoncreds-spec/
+      \endverb
+      \verb{url}
+      \verb https://hyperledger.github.io/anoncreds-spec/
+      \endverb
+    \endentry
+    \entry{iso18013}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ISO}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ISO/IEC 18013-5 Personal identification, ISO-compliant driving licence, Part 5 Mobile driving licence (mDL) application}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.iso.org/standard/69084.html
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/standard/69084.html
+      \endverb
+    \endentry
+    \entry{josang2016subjective}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=732492ebae7a76ed0f341c5a3a998566}{%
+           family={J{ø}sang},
+           familyi={J\bibinitperiod},
+           given={Audun},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{fullhash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{fullhashraw}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{bibnamehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authorbibnamehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authornamehash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authorfullhash}{732492ebae7a76ed0f341c5a3a998566}
+      \strng{authorfullhashraw}{732492ebae7a76ed0f341c5a3a998566}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Subjective Logic: A Formalism for Reasoning Under Uncertainty}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-319-42337-1
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-319-42337-1
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-319-42337-1
+      \endverb
+    \endentry
+    \entry{agnostyca2026}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=592562982e53f663d0c53c014b6f02c0}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \strng{bibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorbibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authornamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Swissi Institute for AI, working paper}
+      \field{note}{Architecture and methodology for scalable domain adaptation from a unified core framework}
+      \field{title}{Generic AI-DLT Enterprise System}
+      \field{year}{2026}
+    \endentry
+    \entry{kurz2026actorassurance}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=592562982e53f663d0c53c014b6f02c0}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{fullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \strng{bibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorbibnamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authornamehash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhash}{592562982e53f663d0c53c014b6f02c0}
+      \strng{authorfullhashraw}{592562982e53f663d0c53c014b6f02c0}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Swissi Institute for AI, working paper}
+      \field{note}{A Design-Science Proposal for Tiered, Reusable Identity Assurance of Natural, Juridical, and Machine Actors}
+      \field{title}{Multi-Jurisdictional Actor Identity Assurance for Capability Gating}
+      \field{year}{2026}
+    \endentry
+    \entry{luhmann1995social}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8b72fb67fc916725baec30956b60d9d}{%
+           family={Luhmann},
+           familyi={L\bibinitperiod},
+           given={Niklas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=13044507770c2298f1f94afacbd790ae}{%
+           family={Bednarz},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=757425a915614d286f2e791b1da0773e}{%
+           family={Baecker},
+           familyi={B\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford, CA}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{fullhash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{fullhashraw}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{bibnamehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authorbibnamehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authornamehash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authorfullhash}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{authorfullhashraw}{c8b72fb67fc916725baec30956b60d9d}
+      \strng{translatorbibnamehash}{bc83c95f926c2ad9ef79ac71d230a821}
+      \strng{translatornamehash}{bc83c95f926c2ad9ef79ac71d230a821}
+      \strng{translatorfullhash}{bc83c95f926c2ad9ef79ac71d230a821}
+      \strng{translatorfullhashraw}{bc83c95f926c2ad9ef79ac71d230a821}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0804726256}
+      \field{title}{Social Systems}
+      \field{year}{1995}
+    \endentry
+    \entry{marwick2011contextcollapse}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5b24b5c9890ba3095958df938b79bc6}{%
+           family={Marwick},
+           familyi={M\bibinitperiod},
+           given={Alice\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d21b623e63019e243a8086352955e107}{%
+           given={danah},
+           giveni={d\bibinitperiod},
+           givenun=0,
+           prefix={boyd\bibnamedelima danah},
+           prefixi={b\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{fullhash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{fullhashraw}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{bibnamehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authorbibnamehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authornamehash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authorfullhash}{c6e4796d0d490be268f92118c1f1ff65}
+      \strng{authorfullhashraw}{c6e4796d0d490be268f92118c1f1ff65}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Media \& Society}
+      \field{number}{1}
+      \field{title}{I Tweet Honestly, I Tweet Passionately: Twitter Users, Context Collapse, and the Imagined Audience}
+      \field{volume}{13}
+      \field{year}{2011}
+      \field{pages}{114\bibrangedash 133}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1461444810365313
+      \endverb
+    \endentry
+    \entry{nissenbaum2010privacy}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b87272f33535d7231ff18fbf708063a0}{%
+           family={Nissenbaum},
+           familyi={N\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stanford, CA}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhashraw}{b87272f33535d7231ff18fbf708063a0}
+      \strng{bibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorbibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authornamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhashraw}{b87272f33535d7231ff18fbf708063a0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780804752374}
+      \field{title}{Privacy in Context: Technology, Policy, and the Integrity of Social Life}
+      \field{year}{2010}
+    \endentry
+    \entry{uprove2013}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a22760de154864353e8811aaf5bd86f4}{%
+           family={Paquin},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daa7de6cf3b2445db161e9bda56e3fb8}{%
+           family={Zaverucha},
+           familyi={Z\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
+      \strng{namehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{fullhash}{b2aad27fa9c910999e596b105af12011}
+      \strng{fullhashraw}{b2aad27fa9c910999e596b105af12011}
+      \strng{bibnamehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authorbibnamehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authornamehash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authorfullhash}{b2aad27fa9c910999e596b105af12011}
+      \strng{authorfullhashraw}{b2aad27fa9c910999e596b105af12011}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{U-Prove Cryptographic Specification V1.1, Revision 3}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/research/publication/u-prove-cryptographic-specification-v1-1-revision-3/
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/research/publication/u-prove-cryptographic-specification-v1-1-revision-3/
+      \endverb
+    \endentry
+    \entry{schardong2022ssi}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=268b38a375188e3f7463a2bea6cbde85}{%
+           family={Schardong},
+           familyi={S\bibinitperiod},
+           given={Frederico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82fcad9578b7b8de319ee89284d798f6}{%
+           family={Custódio},
+           familyi={C\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{fullhash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{fullhashraw}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{bibnamehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authorbibnamehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authornamehash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authorfullhash}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \strng{authorfullhashraw}{b31188c02ab5b7bc6df7f4055d8d9152}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{15}
+      \field{title}{Self-Sovereign Identity: A Systematic Review, Mapping and Taxonomy}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{5641}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22155641
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/22/15/5641
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/22/15/5641
+      \endverb
+    \endentry
+    \entry{shamir1979secret}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71b77dd8ab33fe646ef25cded49e9881}{%
+           family={Shamir},
+           familyi={S\bibinitperiod},
+           given={Adi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{fullhash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{fullhashraw}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{bibnamehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authorbibnamehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authornamehash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authorfullhash}{71b77dd8ab33fe646ef25cded49e9881}
+      \strng{authorfullhashraw}{71b77dd8ab33fe646ef25cded49e9881}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{11}
+      \field{title}{How to Share a Secret}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{volume}{22}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{612\bibrangedash 613}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1145/359168.359176
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/359168.359176
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/359168.359176
+      \endverb
+    \endentry
+    \entry{keri}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa19a0b767095657b90c92d1ee1b4714}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Samuel\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{fullhash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{fullhashraw}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{bibnamehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authorbibnamehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authornamehash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authorfullhash}{aa19a0b767095657b90c92d1ee1b4714}
+      \strng{authorfullhashraw}{aa19a0b767095657b90c92d1ee1b4714}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Key Event Receipt Infrastructure (KERI)}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1907.02143
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1907.02143
+      \endverb
+    \endentry
+    \entry{swift2026kycregistry}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48568b3af1e67664dcc96ae13c9dd3a9}{%
+           family={{Society for Worldwide Interbank Financial Telecommunication}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{fullhash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{fullhashraw}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{bibnamehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authorbibnamehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authornamehash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authorfullhash}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \strng{authorfullhashraw}{48568b3af1e67664dcc96ae13c9dd3a9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Know Your Customer ({KYC})}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.swift.com/risk-and-compliance/know-your-customer-kyc
+      \endverb
+      \verb{url}
+      \verb https://www.swift.com/risk-and-compliance/know-your-customer-kyc
+      \endverb
+    \endentry
+    \entry{sovrin}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ada48ca63c824008505acc3e9e3093be}{%
+           family={{Sovrin Foundation}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Sovrin Foundation, whitepaper}%
+      }
+      \strng{namehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{fullhash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{fullhashraw}{ada48ca63c824008505acc3e9e3093be}
+      \strng{bibnamehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authorbibnamehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authornamehash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authorfullhash}{ada48ca63c824008505acc3e9e3093be}
+      \strng{authorfullhashraw}{ada48ca63c824008505acc3e9e3093be}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2026}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sovrin.org/library/sovrin-protocol-and-token-white-paper/
+      \endverb
+      \verb{url}
+      \verb https://sovrin.org/library/sovrin-protocol-and-token-white-paper/
+      \endverb
+    \endentry
+    \entry{swisseid}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=948f882b7940be41c08133779fe95bea}{%
+           family={{Swiss Confederation}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Federal Council of Switzerland}%
+      }
+      \strng{namehash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{fullhashraw}{948f882b7940be41c08133779fe95bea}
+      \strng{bibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorbibnamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authornamehash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhash}{948f882b7940be41c08133779fe95bea}
+      \strng{authorfullhashraw}{948f882b7940be41c08133779fe95bea}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Electronic Proof of Identity and Other Electronic Credentials (E-ID Act)}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.eid.admin.ch/
+      \endverb
+      \verb{url}
+      \verb https://www.eid.admin.ch/
+      \endverb
+    \endentry
+    \entry{oid4vp}{online}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=164869a3273c1797d92655896feae92a}{%
+           family={Terbu},
+           familyi={T\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c810c6e897884044b611eb7a087c09e3}{%
+           family={Lodderstedt},
+           familyi={L\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34952655ece7ba2b9315f08a5d887c32}{%
+           family={Yasuda},
+           familyi={Y\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e9db61a3937d6aeae1fd9d211c0c65}{%
+           family={Looker},
+           familyi={L\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {OpenID Foundation}%
+      }
+      \strng{namehash}{269279fe290e4cf09b86b5bd3f494181}
+      \strng{fullhash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{fullhashraw}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{bibnamehash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{authorbibnamehash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{authornamehash}{269279fe290e4cf09b86b5bd3f494181}
+      \strng{authorfullhash}{e77e629306eb1131e2f67a0ddc6908ae}
+      \strng{authorfullhashraw}{e77e629306eb1131e2f67a0ddc6908ae}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OpenID for Verifiable Presentations}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openid.net/specs/openid-4-verifiable-presentations-1_0.html
+      \endverb
+      \verb{url}
+      \verb https://openid.net/specs/openid-4-verifiable-presentations-1_0.html
+      \endverb
+    \endentry
+    \entry{unsdg169}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {United Nations}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sustainable Development Goal 16.9, Legal Identity for All Including Birth Registration}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://sdgs.un.org/goals/goal16
+      \endverb
+      \verb{url}
+      \verb https://sdgs.un.org/goals/goal16
+      \endverb
+    \endentry
+    \entry{w3cdid}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {W3C Recommendation}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralized Identifiers (DIDs) v1.0}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/did-core/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/did-core/
+      \endverb
+    \endentry
+    \entry{w3cvc}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {W3C Recommendation}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verifiable Credentials Data Model}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/vc-data-model-2.0/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/vc-data-model-2.0/
+      \endverb
+    \endentry
+    \entry{w3c2026bbs}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdea812935506778c291249971f80655}{%
+           family={{World Wide Web Consortium}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {W3C Candidate Recommendation Draft}%
+      }
+      \strng{namehash}{bdea812935506778c291249971f80655}
+      \strng{fullhash}{bdea812935506778c291249971f80655}
+      \strng{fullhashraw}{bdea812935506778c291249971f80655}
+      \strng{bibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authorbibnamehash}{bdea812935506778c291249971f80655}
+      \strng{authornamehash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhash}{bdea812935506778c291249971f80655}
+      \strng{authorfullhashraw}{bdea812935506778c291249971f80655}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Integrity {BBS} Cryptosuites v1.0}
+      \field{urlday}{24}
+      \field{urlmonth}{7}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.w3.org/TR/vc-di-bbs/
+      \endverb
+      \verb{url}
+      \verb https://www.w3.org/TR/vc-di-bbs/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper using the metadata below."
+title: "Credentials and Triangulated Trust Signals on a Single Accountable Identifier: A Hash-Anchored Distributed-Ledger Framework for Portable Identity across Jurisdictions"
+type: article
+authors:
+  - family-names: "Kurz"
+    given-names: "Walter"
+    orcid: "https://orcid.org/0009-0006-8045-4775"
+journal: Swissi AI Journal
+volume: "2026"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21901243"
+    description: Published paper DOI
+license: CC-BY-4.0
+url: "https://journal.swissi-ai.institute/en/doi/zpd6gvtrfaun"
